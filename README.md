@@ -1,6 +1,7 @@
 # The Question Generator: A System for Generating Questions from Texts
 
 The Question Generator is a system that takes in a text as input and generates questions based on the content of the text. The system comprises three main modules, each of which is described below.
+
 Module 1: Preprocessing
 
 The first module in the Question Generator system is the Preprocessing module. This module performs three key tasks on the input text:
